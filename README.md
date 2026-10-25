@@ -41,3 +41,8 @@ Currently in development. Features and implementation details may evolve as the 
 ## 🎯 Vision
 
 To make personal finance management easier by turning everyday financial data into clear, useful insights that help users spend smarter and save better.
+
+
+## Author :
+Gaurav Srivastava
+Nishchal Arya
