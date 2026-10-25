@@ -43,6 +43,6 @@ Currently in development. Features and implementation details may evolve as the 
 To make personal finance management easier by turning everyday financial data into clear, useful insights that help users spend smarter and save better.
 
 
-## Author :
+## Contributors :
 Gaurav Srivastava
 Nishchal Arya
